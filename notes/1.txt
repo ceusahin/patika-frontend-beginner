@@ -1,0 +1,9 @@
+
+HTML sıralama
+    1 --> Başlık (h1, h2, h3...)
+    2 --> Paragraf
+    3 --> Link
+    4 --> Resim/Görsel
+    5 --> Listeler (Sıralı/Sırasız)
+    6 --> Tablo
+    7 --> Form
