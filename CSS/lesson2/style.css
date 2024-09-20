@@ -1,0 +1,20 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-transform: lowercase;
+    color: skyblue;
+}
+
+h2 {
+
+}
+
+ul {
+    color: darkorange;
+    font-size: 25px;
+    font-family: sans-serif;
+}

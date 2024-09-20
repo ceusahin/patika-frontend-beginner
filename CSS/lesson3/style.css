@@ -1,0 +1,23 @@
+.text-red {
+    color: red;
+}
+
+.fs-small {
+    font-size: 14px;
+}
+
+.fs-medium {
+    font-size: 20px;
+}
+
+.fs-large {
+    font-size: 30px;
+}
+
+#first-article {
+    color: hotpink;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: mediumslateblue;
+}
